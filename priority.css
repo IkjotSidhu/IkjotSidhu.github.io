@@ -1,0 +1,5 @@
+.range{max-width:780px;margin:2.2rem 0 0;color:var(--muted)}
+.range span{color:var(--rust);font:700 .72rem ui-monospace,monospace;letter-spacing:.1em;text-transform:uppercase}
+.featured-paper{max-width:860px;border-top:1px solid var(--line);padding-top:2rem}
+.featured-paper h3{font-size:clamp(1.8rem,3.5vw,3.3rem);line-height:1.15}
+.featured-paper>p:nth-of-type(2){color:var(--muted)}
