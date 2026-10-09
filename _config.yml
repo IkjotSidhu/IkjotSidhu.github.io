@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+title: Ikjot Sidhu
+description: Bioinformatician working across single-cell genomics, spatial transcriptomics, and applied machine learning.
+exclude:
+  - README.md
